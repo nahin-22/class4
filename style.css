@@ -1,0 +1,26 @@
+h3 {
+    color:rgb(21, 101, 206);
+    font-size: 25px;
+    width:25% ;
+    height:70px ;
+    text-decoration:none
+    text-decoration-style: solid;
+
+}
+
+label {
+    color:rgb(107, 233, 68);
+    font-size: 25px;
+    width:25% ;
+    height:70px ;
+    text-decoration:none
+    text-decoration-style: solid;
+    
+}
+
+p{
+   font-size: 25px;
+   text-align:justify;
+   color: rgb(165, 14, 211);
+}
+
